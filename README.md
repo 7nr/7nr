@@ -1,7 +1,4 @@
-### Hi there 👋
-
 <p align="center"> <img src="https://gpvc.arturio.dev/7nr" alt="Profile Views" /> </p>
-<div class="snow"></div>
 
 <!--
 **7nr/7nr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
