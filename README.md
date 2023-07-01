@@ -8,7 +8,6 @@
 </p>
 <h2 align="center"> ⚡ Other stuff </h2>
 <p align="center"><br>
-  <a href="https://dsc.bio/nxco">
     <img src="https://lanyard-profile-readme.vercel.app/api/899684694407393331"/>
-     </a>
+    
 </p>
